@@ -1,0 +1,25 @@
+input[type=text] {
+    size: 30;
+    border: 1px solid green;
+    background-color: aqua;
+    color: navy;
+}
+
+input[type=password] {
+    size: 30;
+    border: 1px solid red;
+    background-color: aqua;
+    color: navy;
+}
+
+input[type=submit] {
+    border: 2px solid;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+    background-color: green;
+}
+
+form {
+    background-color: grey;
+}
